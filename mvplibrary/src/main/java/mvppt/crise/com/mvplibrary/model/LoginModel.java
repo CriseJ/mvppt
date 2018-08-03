@@ -1,7 +1,7 @@
-package com.cirse.mvppt.model;
+package mvppt.crise.com.mvplibrary.model;
 
-import com.cirse.mvppt.model.been.User;
-import com.cirse.mvppt.presenter.OnLoginFinishedListener;
+import mvppt.crise.com.mvplibrary.model.been.User;
+import mvppt.crise.com.mvplibrary.presenter.OnLoginFinishedListener;
 
 /**
  * 注释：

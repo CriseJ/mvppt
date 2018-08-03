@@ -1,6 +1,6 @@
-package com.cirse.mvppt.presenter;
+package mvppt.crise.com.mvplibrary.presenter;
 
-import com.cirse.mvppt.model.been.User;
+import mvppt.crise.com.mvplibrary.model.been.User;
 
 /**
  * 注释：

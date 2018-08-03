@@ -1,10 +1,10 @@
-package com.cirse.mvppt.model.impl;
+package mvppt.crise.com.mvplibrary.model.impl;
 
 import android.os.Handler;
 import android.text.TextUtils;
-import com.cirse.mvppt.model.LoginModel;
-import com.cirse.mvppt.model.been.User;
-import com.cirse.mvppt.presenter.OnLoginFinishedListener;
+import mvppt.crise.com.mvplibrary.model.LoginModel;
+import mvppt.crise.com.mvplibrary.model.been.User;
+import mvppt.crise.com.mvplibrary.presenter.OnLoginFinishedListener;
 
 /**
  * 注释：

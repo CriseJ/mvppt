@@ -1,4 +1,4 @@
-package com.cirse.mvppt.model.been;
+package mvppt.crise.com.mvplibrary.model.been;
 
 /**
  * 注释：用户been

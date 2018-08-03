@@ -1,4 +1,4 @@
-package com.cirse.mvppt.View;
+package com.cirse.mvppt;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -8,10 +8,10 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.cirse.mvppt.R;
-import com.cirse.mvppt.model.been.User;
-import com.cirse.mvppt.presenter.LoginPresenter;
-import com.cirse.mvppt.presenter.LoginPresenterImpl;
+import mvppt.crise.com.mvplibrary.View.LoginView;
+import mvppt.crise.com.mvplibrary.model.been.User;
+import mvppt.crise.com.mvplibrary.presenter.LoginPresenter;
+import mvppt.crise.com.mvplibrary.presenter.LoginPresenterImpl;
 
 /**
 * View层的Activity实现View层的接口LoginView，

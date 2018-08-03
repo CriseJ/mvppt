@@ -1,4 +1,4 @@
-package com.cirse.mvppt.presenter;
+package mvppt.crise.com.mvplibrary.presenter;
 
 /**
  * 注释：Model层和Presenter层操作的接口
