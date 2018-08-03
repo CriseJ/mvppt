@@ -1,4 +1,4 @@
-package com.cirse.mvppt.aother.mapp;
+package com.cirse.mvppt.mapp;
 
 import android.app.Application;
 import android.content.Context;

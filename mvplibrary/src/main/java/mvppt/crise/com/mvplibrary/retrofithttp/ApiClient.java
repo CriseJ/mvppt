@@ -1,8 +1,8 @@
-package com.cirse.mvppt.aother.retrofithttp;
-
-import com.cirse.mvppt.BuildConfig;
+package mvppt.crise.com.mvplibrary.retrofithttp;
 
 import java.util.concurrent.TimeUnit;
+
+import mvppt.crise.com.mvplibrary.BuildConfig;
 import okhttp3.OkHttpClient;
 import okhttp3.logging.HttpLoggingInterceptor;
 import retrofit2.Retrofit;
